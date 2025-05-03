@@ -52,3 +52,6 @@
 [submodule "Spring 2025/EMAC276"]
 	path = Spring 2025/EMAC276
 	url = https://github.com/trevorswan11/EMAC276
+[submodule "Spring 2025/MGMT205"]
+	path = Spring 2025/MGMT205
+	url = https://github.com/trevorswan11/MGMT205
