@@ -55,3 +55,6 @@
 [submodule "Spring 2025/MGMT205"]
 	path = Spring 2025/MGMT205
 	url = https://github.com/trevorswan11/MGMT205
+[submodule "Spring 2025/PHYS122"]
+	path = Spring 2025/PHYS122
+	url = https://github.com/trevorswan11/PHYS122
