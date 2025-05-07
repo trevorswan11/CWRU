@@ -58,3 +58,6 @@
 [submodule "Spring 2025/PHYS122"]
 	path = Spring 2025/PHYS122
 	url = https://github.com/trevorswan11/PHYS122
+[submodule "Spring 2025/ECHE363"]
+	path = Spring 2025/ECHE363
+	url = https://github.com/trevorswan11/ECHE363
