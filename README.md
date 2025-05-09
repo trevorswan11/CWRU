@@ -1,5 +1,5 @@
 # CWRU
-Work from courses I've taken at CWRU. If, for some reason, you want to clone this full repository, use the command, `git clone --recursive https://github.com/trevorswan11/CWRU.git`.
+Work from courses I've taken at CWRU. If, for some reason, you want to clone this full repository, use the command, `git clone --recursive https://github.com/trevorswan11/CWRU.git`. I do not recommend this as the full repository is very large. Also, please read the disclaimer at the end of this file! 
 
 ## Semesters
 ### Fall 2023
