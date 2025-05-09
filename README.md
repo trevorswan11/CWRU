@@ -26,7 +26,6 @@ Work from courses I've taken at CWRU. If, for some reason, you want to clone thi
 - [RLGN101](https://github.com/trevorswan11/RLGN101.git)
 
 ### Spring 2025
-Will be made public throughout may
 - [ECHE313](https://github.com/trevorswan11/ECHE313.git)
 - [ECHE363](https://github.com/trevorswan11/ECHE363.git)
 - [EMAC276](https://github.com/trevorswan11/EMAC276.git)

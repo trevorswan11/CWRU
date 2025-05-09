@@ -61,3 +61,6 @@
 [submodule "Spring 2025/ECHE363"]
 	path = Spring 2025/ECHE363
 	url = https://github.com/trevorswan11/ECHE363
+[submodule "Spring 2025/ECHE313"]
+	path = Spring 2025/ECHE313
+	url = https://github.com/trevorswan11/ECHE313
