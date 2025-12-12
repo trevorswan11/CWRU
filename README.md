@@ -22,7 +22,7 @@ The submodules in this repository were initially created to backup my work, but 
 - [ENGR130](https://github.com/trevorswan11/ENGR130.git)
 - [ENGR145](https://github.com/trevorswan11/ENGR145.git)
 - [MATH223](https://github.com/trevorswan11/MATH223.git)
-- [ECHE151]()
+- ECHE151
 
 ### Spring 2024
 - [ANTH102](https://github.com/trevorswan11/ANTH102.git)
@@ -57,6 +57,8 @@ On co-op!
 - [ECSE395](https://github.com/trevorswan11/ECSE395.git)
 - [ENGR210](https://github.com/trevorswan11/ENGR210.git)
 - [WRIT285](https://github.com/trevorswan11/WRIT285.git)
+- PHED34A
+- PHED42B
 
 ### Fall 2026
 - 
