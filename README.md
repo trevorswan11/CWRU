@@ -37,7 +37,11 @@ Work from courses I've taken at CWRU. If, for some reason, you want to clone thi
 On co-op!
 
 ### Spring 2026
-- 
+- [ECSE281]()
+- [ECSE338]()
+- [ECSE395]()
+- [ENGR210]()
+- [WRIT285]()
 
 ### Fall 2026
 - 
